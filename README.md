@@ -2,7 +2,7 @@
 Completed hands-on projects using Pandas, Matplotlib &amp; Seaborn for data analysis and visualization; participated in GfG 160 Days of Problem Solving with DSA-focused Summer Workshops.
 
 
-![Jobs Analysis Dashboard](https://raw.githubusercontent.com/kumarsahup07/Jobs-Analysis-Project/main/jobs_analysis.png)
+![Jobs Analysis Dashboard](https://raw.githubusercontent.com/kumarsahup07/Jobs-Analysis-Project/main/Employee%20Insights.png)
 
 
 

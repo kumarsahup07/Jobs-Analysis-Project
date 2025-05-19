@@ -60,6 +60,46 @@ Here is a preview of 5 random rows from the dataset to understand its structure:
 
 ---
 
+## **Data Cleaning Summary**  
+- **Removed Rows:**  
+  - Entries with missing values in `job_id`, `resposibilities`, and `company`.  
+- **Imputed Values:**  
+  - **Experience:** ➡️ `5-10 Yrs`  
+  - **Location:** ➡️ `Bangalore/Bengaluru`  
+  - **Rating:** ➡️ `0.0`  
+  - **Reviews:** ➡️ `0 Reviews`  
+
+---
+
+## **Duplicate Removal Summary**  
+- All duplicate entries based on `job_id` were successfully removed, ensuring **data integrity** and **uniqueness**.  
+
+---
+
+## **Top 10 Companies by Minimum Reviews Analysis**  
+- **Tata Consultancy Services (TCS)**, **Reliance Industries (RIL)**, and **HDFC Bank** lead the market with the highest review counts.  
+- These companies dominate the market in terms of visibility and employee engagement.  
+
+---
+
+## **Top 10 Responsibilities by Frequency**  
+- The most common responsibilities include **Sales**, **Communication**, and **Customer Service**.  
+- Technical roles demand expertise in **JavaScript** and **Java**, reflecting high industry needs.  
+
+---
+
+## **Top 10 Responsibilities at HDFC Bank**  
+- **Portfolio Management**, **Cross Selling**, and **Sales** are top responsibilities.  
+- Reflects HDFC's focus on **customer relationship management** and **financial services**.  
+
+---
+
+## **Top 10 Responsibilities for Data Analysts**  
+- Key skills include **Data Analysis**, **SQL**, and **Excel**.  
+- Emerging technologies like **Power BI** and **Tableau** are also highly valued for data visualization.  
+
+---
+
 ## **Future Enhancements**  
 - Predictive modeling for salary estimations.  
 - Deeper regional analysis of job availability.  
@@ -69,3 +109,7 @@ Here is a preview of 5 random rows from the dataset to understand its structure:
 
 ## **Author**  
 - **Priyanshu Kumar Sahu** - [GitHub Profile](https://github.com/kumarsahup07)
+
+---
+## **License**
+This project is licensed under the **CC License**.  
